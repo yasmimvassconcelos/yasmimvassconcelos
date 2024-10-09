@@ -1,4 +1,4 @@
-# Sobre mim
+# 
 * 👩🏽‍💻Desenvolvimento de Sistemas 2/3
 * 🎓SENAI Paulista
 * 📍Escola de Referência SESI Paulista
